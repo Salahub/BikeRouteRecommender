@@ -1,0 +1,9 @@
+filestreets	/datasets/streets/Zurich_w1_graphPoints.txt
+filerisks	/datasets/bicyclerisk/Zurich_w1_RoadNodeRisk.csv
+comfortfnc	yes
+filecomfort	
+fnccomfort	
+buildgraph	no
+graphfile	/code/graph_files/WeightedGraph1.txt
+mapfilename	/img/map.gif
+mapcoords	[8.5141, 8.5523, 47.365, 47.3886]
