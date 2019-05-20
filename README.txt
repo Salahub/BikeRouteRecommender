@@ -6,7 +6,7 @@ cyclists based on safety and comfort. It also contains sample data for the city
 center of Zurich compiled under the frame of the project entitled: "On Cycling
 Risk and Discomfort: Urban Safety Mapping and Bike Route Recommendations"
 
-Execute the program by running in Jupyter the notebook -> main.ipynb
+Execute the program by running in Jupyter the notebook -> code/main.ipynb
 This will go on to request the paths to the data files necessary to set up the
 route recommender, to then open a GUI for interactive route generation and data
 collection.
