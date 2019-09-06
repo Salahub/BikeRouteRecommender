@@ -11,6 +11,14 @@ This will go on to request the paths to the data files necessary to set up the
 route recommender, to then open a GUI for interactive route generation and data
 collection.
 
+On using the GUI, left-click to define the points along the input route, right-
+click to obtain the coordinates of a point on the map, and press "a" on the
+keyboard to change the value of \alpha [*]. The rest of the possible actions are on-
+screen buttons.
+
+[*] \alpha defines the total optimization weight, w, as a combination of risk, wr, and
+    discomfort, wd, weights: w = \alpha.wr + (1-\alpha).wd
+    
 
 Important files and folders:
 ---------------------------
